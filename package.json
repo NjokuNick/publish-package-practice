@@ -1,6 +1,6 @@
 {
   "name": "pub-package",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Testing how to publish a package to npm",
   "main": "index.js",
   "scripts": {
