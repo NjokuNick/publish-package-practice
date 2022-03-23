@@ -1,0 +1,22 @@
+{
+  "name": "pub-package",
+  "version": "1.0.0",
+  "description": "Testing how to publish a package to npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NjokuNick/publish-package-practice.git"
+  },
+  "keywords": [
+    "publish"
+  ],
+  "author": "Nick Njoku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NjokuNick/publish-package-practice/issues"
+  },
+  "homepage": "https://github.com/NjokuNick/publish-package-practice#readme"
+}
